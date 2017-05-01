@@ -1,0 +1,10 @@
+<a> - link tagidir. "href" atributu ile URL adres verilir. Taglarin arasinda text yazilir ve o texte tikladiqca verdiyimiz linke bizi yoneldir. Default olaraq hal hazirda oldugunuz pencerede acir linki, amma target="_blank" atributu linki yeni pencerede acmaga imkan verir.
+<br> - yeni setire kocuren tag. Break Line demekdir. Tek tagdir, qapanmir.
+<hr> - horizontal xett ceken bir tag. Tek tagdir, qapanmir.
+<img> - sekil tagi. Tek tagdir. src (source) atributu ile her hansisa sekilin linkini veririk. width ve height atributlari sekilin genisliyini ve hundurluyunu teyin edir. alt atributu sekil load olmadi ise alternativ bir text verir sekilin yerine, ki hec olmasa anlayisimiz olsun burada neyin sekili olmaq gerekdiyini.
+<h1> -- <h6> - basliqlar. Herflerin olcusu ile ve basliqlarin levelleri ile ferqlenirler bir birilerinnen.
+<title> -    <head> tagin icinde yazilan bir tagdir. Saytin qisa informasiyasini pencerenin basinda gosterir.
+<ul> - Unordered List. Siyahi tagi. Sayla siralama yoxdur, saylarin yerine noqteler qoyulur.
+<ol> - Ordered List. Siyahi tagi. Sayla siralama olur.
+<li> - List Item. Siyahin icindeki setirleri yaza bilerik bu tagin komekliyi ile.
+<p> - paraqraf. Sade bir tagdir, icinde text yerlesdiririk.
